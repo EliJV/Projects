@@ -1,3 +1,2 @@
 # Projects
-Used for random projects
-I am just testing out github.
+Used for random projects that I work on in my past time.
